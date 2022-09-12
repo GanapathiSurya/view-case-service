@@ -1,9 +1,9 @@
 {
-  "name": "@GanapathiSurya/view-case-service",
+  "name": "@ganapathisurya/view-case-service",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/GanapathiSurya"
+    "registry": "https://npm.pkg.github.com/ganapathisurya"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
