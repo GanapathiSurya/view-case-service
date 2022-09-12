@@ -1,0 +1,14 @@
+#case-table {
+    font-size: 20px;
+    font-family: "Roboto";
+    border: 2px solid chocolate;
+    border-radius: 5px;
+}
+#case-table td {
+    padding: 10px;
+}
+#case-table td:hover {
+    background-color: chocolate;
+    border-radius: 5px;
+    color: white;
+}
