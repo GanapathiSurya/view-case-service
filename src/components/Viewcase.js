@@ -1,6 +1,6 @@
 import React from 'react'
 import './case-table.css';
-export default function Viewcase(props) {
+export const Viewcase = (props) => {
   return (
     <div>
         <table id='case-table'>

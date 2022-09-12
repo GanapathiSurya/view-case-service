@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Viewcase from './Viewcase';
+import Viewcase from './components/Viewcase';
 
 function App() {
   return (
